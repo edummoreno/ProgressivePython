@@ -21,7 +21,7 @@ Nível	Descrição Geral	Habilidades e Conhecimentos
 - Usa ferramentas de depuração e testes unitários (unittest, pytest).
 - Trabalha com APIs e bibliotecas externas.
 - Conhece manipulação de erros avançada e boas práticas de documentação.
-5. Avançado	Resolve problemas complexos e utiliza frameworks e ferramentas modernas.	- Domina bibliotecas populares como Pandas, NumPy, e Flask/Django.
+5. Programador Senior	Resolve problemas complexos e utiliza frameworks e ferramentas modernas.	- Domina bibliotecas populares como Pandas, NumPy, e Flask/Django.
 - Conhece concurrent.futures, threads e processos paralelos.
 - Trabalha com sistemas distribuídos e integrações.
 - Entende conceitos de design patterns e aplica-os no Python.
