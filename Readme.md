@@ -1,4 +1,5 @@
 Nível	Descrição Geral	Habilidades e Conhecimentos
+
 0. Iniciante Absoluto	Não tem nenhum conhecimento ou apenas ouviu falar de Python.	- Nunca escreveu um código em Python.
 - Não sabe o que é um interpretador ou IDE.
 - Familiaridade zero com conceitos básicos de programação (variáveis, loops, etc.).
